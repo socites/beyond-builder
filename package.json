@@ -1,0 +1,46 @@
+{
+  "name": "beyond-builder",
+  "version": "0.1.1",
+  "description": "BeyondJS Builder.",
+  "main": "./lib",
+  "author": "socites",
+  "keywords": [
+    "framework",
+    "sigle page",
+    "real time",
+    "MVC",
+    "hogan",
+    "react",
+    "require js",
+    "socket.io",
+    "polymer",
+    "web components"
+  ],
+  "repository": "https://github.com/socites/beyond-builder.git",
+  "license": "MIT",
+  "homepage": "http://www.beyondjs.com",
+  "bugs": {
+    "url": "https://github.com/socites/beyond/issues"
+  },
+  "files": [
+    "lib/"
+  ],
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "async": "https://github.com/socites/async.git",
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "colors": "^1.1.2",
+    "finder": "https://github.com/socites/finder.git",
+    "main.lib": "https://github.com/socites/main.lib.git",
+    "url-join": "^0.0.1",
+    "connect-phonegap": "^0.24.9"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  },
+  "engines": {
+    "node": ">= 6.9.4"
+  }
+}
