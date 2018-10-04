@@ -1,6 +1,6 @@
 {
   "name": "beyond-builder",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "BeyondJS Builder.",
   "main": "./lib",
   "author": "socites",
@@ -31,10 +31,11 @@
     "co": "^4.6.0",
     "co-fs": "^1.2.0",
     "colors": "^1.1.2",
+    "connect-phonegap": "^0.24.9",
     "finder": "https://github.com/socites/finder.git",
     "main.lib": "https://github.com/socites/main.lib.git",
-    "url-join": "^0.0.1",
-    "connect-phonegap": "^0.24.9"
+    "uglify-es": "^3.3.9",
+    "url-join": "^0.0.1"
   },
   "devDependencies": {
     "mocha": "^2.3.4",
